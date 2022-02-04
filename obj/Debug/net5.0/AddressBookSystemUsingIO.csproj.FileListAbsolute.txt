@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.exe
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.deps.json
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.runtimeconfig.json
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.dll
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\ref\AddressBookSystemUsingIO.dll
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\bin\Debug\net5.0\AddressBookSystemUsingIO.pdb
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.dll
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\ref\AddressBookSystemUsingIO.dll
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.pdb
+C:\Users\Hp\source\repos\AddressBookSystemUsingIO\obj\Debug\net5.0\AddressBookSystemUsingIO.genruntimeconfig.cache
