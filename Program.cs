@@ -10,6 +10,8 @@ namespace AddressBookSystemUsingIO
 
             PersonInfo personInfo = new PersonInfo();
             personInfo.SetPersonInfo();
+
+            personInfo.DisplayPersonInfo();
         }
     }
 }
